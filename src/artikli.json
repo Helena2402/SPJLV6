@@ -1,0 +1,42 @@
+[
+    {
+        "Id" : 1,
+        "Naziv" : "Pametan sat",
+        "Proizvodac" : "Huawei",
+        "Model" : "GT 2E",
+        "Cijena" : 1000,
+        "Kolicina" : 2
+    },
+    {
+        "Id" : 2,
+        "Naziv" : "Prijenosno racunalo",
+        "Proizvodac" : "Lenovo",
+        "Model" : "V15 INTEL I3",
+        "Cijena" : 4000,
+        "Kolicina" : 3
+    },
+    {
+        "Id" : 3,
+        "Naziv" : "Mobitel",
+        "Proizvodac" : "Nokia",
+        "Model" : "3310",
+        "Cijena" : 500,
+        "Kolicina" : 7
+    },
+    {
+        "Id" : 4,
+        "Naziv" : "Monitor",
+        "Proizvodac" : "HP",
+        "Model" : "24FW 23.8in",
+        "Cijena" : 1000,
+        "Kolicina" : 2
+    },
+    {
+        "Id" : 5,
+        "Naziv" : "Mis",
+        "Proizvodac" : "Rampage",
+        "Model" : "SMX-R75 Striker",
+        "Cijena" : 200,
+        "Kolicina" : 0
+    }
+]
